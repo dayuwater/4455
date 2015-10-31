@@ -1,0 +1,15 @@
+Blue brick -> blue ball   Green brick-> green ball  Gray brick -> cannot break
+Mana: 100  Regen: 1/fps Color Shift= 15, Jumper = 30, Gun = 50, Force = 100
+Life: 100  Hit by enemy attack -10  Lose ball -25  
+Level 1: 5 Blue bricks, blue ball, 1 gift
+Level 2: 2 Blue brick + 5 Green brick, blue ball start, 2 gifts, 1 color shift
+Level 3: 3 Blue brick + 3 Green brick + 1 Gray brick , 1 color shift, 1 jumper
+Level 4: Still Type A enemy, kill by balls, shoot guns to player
+Level 5: Still Type B enemy, kill by guns, consume balls if hit
+Level 6: Spike bricks, use force to get the ball to safety
+
+Level 7: Checkerboard
+Level 8: Multiple Doors
+Level 9: 2*2 Room
+Level 10: Boss (30 hp, 1 hit=1 hp)   each phase= 5 hp  start with BGBG P1: Type A  P2: Type B P3: Type A with B minion
+P4: Type B with A minion  P5: Type A with B minion, throwing spikes  P6: Type B with A minion, throwing spikes
